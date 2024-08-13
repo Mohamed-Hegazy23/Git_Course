@@ -1,0 +1,38 @@
+body{
+    background-image: url(./photo2.jpg);
+    background-repeat: no-repeat;
+    background-position: top right ;
+    background-repeat: repeat-y;
+}
+.div1{
+    background-color: aqua;
+
+}
+
+#div2{
+    background-image: url(https://th.bing.com/th/id/OIP.PA_USRL68UjTfF0kRo5ImQHaEo?rs=1&pid=ImgDetMain);
+
+
+
+
+
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+}
+#div2 > h1 {
+    font-size: xx-large;text-align: center  ;
+  }
+p{
+    text-indent: 10px;
+    line-height: 50px;
+    word-spacing: 10px;
+}
+#in:hover{
+border-radius: 10px;
+border-style: solid;
+border-color: aqua;
+font-size: large;
+box-shadow: 20px;
+
+}
